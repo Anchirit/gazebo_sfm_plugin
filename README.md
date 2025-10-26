@@ -4,7 +4,11 @@
 
 本仓库为gazebo_sfm_plugin based on Ubuntu22.04-ros2-humble and gazebo classic version
 
-其中代码基本上来自https://github.com/robotics-upo/lightsfm的头文件以及https://github.com/robotics-upo/gazebo_sfm_plugin的galactic分支
+其中代码基本上来自
+
+https://github.com/robotics-upo/lightsfm  的头文件
+
+https://github.com/robotics-upo/gazebo_sfm_plugin  的galactic分支
 
 ## 使用方法
 
